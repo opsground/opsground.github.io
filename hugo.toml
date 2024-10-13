@@ -1,4 +1,4 @@
-baseURL = "https://example.docsy.dev/"
+baseURL = "https://opsground.github.io/"
 title = "OpsGround"
 
 # Language settings
@@ -59,14 +59,14 @@ languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.en.params]
-title = "Goldydocs"
+title = "OpsGround"
 description = "A OpsGround example site"
 
 [languages.no]
 languageName ="Norsk"
 contentDir = "content/no"
 [languages.no.params]
-title = "Goldydocs"
+title = "OpsGround"
 description = "OpsGround er operativsystem for skyen"
 time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
@@ -99,7 +99,7 @@ time_format_blog = "2006.01.02"
 section = ["HTML", "print", "RSS"]
 
 [params]
-privacy_policy = "https://policies.google.com/privacy"
+privacy_policy = ""
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
@@ -123,9 +123,9 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/google/docsy-example"
+github_repo = "https://www.linkedin.com/company/opsground"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/google/docsy"
+github_project_repo = "https://www.linkedin.com/company/opsground"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -144,8 +144,8 @@ offlineSearch = false
 prism_syntax_highlighting = false
 
 [params.copyright]
-  authors = "Docsy Authors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | "
-  from_year = 2018
+  authors = "OpsGround Authors"
+  from_year = 2024
 
 # User interface configuration
 [params.ui]
@@ -196,7 +196,7 @@ enable = false
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub"
-  url = "https://github.com/google/docsy"
+  url = "https://www.linkedin.com/company/opsground"
   icon = "fab fa-github"
   desc = "Development takes place here!"
 [[params.links.developer]]
